@@ -1,0 +1,16 @@
+.perfil-card {
+  margin-top: 100px !important;
+  margin-bottom: 20px !important;
+  max-width: 600px !important;
+  background: rgba(255, 255, 255, 0.9) !important;
+}
+
+.perfil-img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border: 3px solid var(--bs-primary); // usa el color primario de Bootstrap
+  border-radius: 50%; // círculo
+  margin-bottom: 1rem; // igual que mb-3
+}
+
